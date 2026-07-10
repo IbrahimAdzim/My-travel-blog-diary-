@@ -1,4 +1,4 @@
-# My-travel-blog-diary-
+# Ayber's-travel-blog-diary-
 List of destinations, places that I have visited 
 
 🇦🇺 Australia
