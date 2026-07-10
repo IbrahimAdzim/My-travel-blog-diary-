@@ -18,8 +18,9 @@ List of destinations, places that I have visited
 10) Negeri Sembilan
 11) Malacca
 12) Johor
-13) Sabah
-14) Sarawak
+14) Sabah
+16) Sarawak
+17) Perlis
 
 🇸🇦 Saudi Arabia
 1) Medina
